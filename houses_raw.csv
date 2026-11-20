@@ -1,0 +1,151 @@
+area,bedrooms,bathrooms,finishing,floor,price
+86,2,2,Not Finished,Fourth,2061000
+210,3,2,Finished,First,4230000
+188,4,4,Finished,First,3995000
+149,1,1,Not Finished,Fourth,2824000
+148,2,1,Finished,Third,3079000
+225,4,4,Finished,Second,4795000
+85,1,1,Finished,Third,1915000
+196,3,2,Not Finished,Second,3592000
+106,2,2,Finished,First,2604000
+87,2,2,Not Finished,Third,1927000
+165,4,3,Not Finished,First,3474000
+246,4,3,Finished,Third,5194000
+203,4,4,Not Finished,Fourth,4443000
+207,4,4,Finished,Fourth,4654000
+199,3,3,Finished,Second,4013000
+212,5,4,Not Finished,Fourth,4690000
+162,2,1,Not Finished,Third,2930000
+93,1,1,Finished,Second,2312000
+221,4,3,Finished,First,4723000
+151,2,1,Not Finished,Second,2745000
+160,2,2,Not Finished,Third,3102000
+137,1,1,Not Finished,Fourth,2798000
+103,3,2,Finished,First,2957000
+237,5,4,Finished,Third,5265000
+211,5,4,Finished,Fourth,4939000
+186,3,3,Not Finished,Fourth,3901000
+142,3,3,Not Finished,Second,2853000
+218,3,3,Finished,First,4520000
+168,4,4,Finished,Second,4016000
+150,3,2,Finished,Fourth,3547000
+151,4,3,Not Finished,Fourth,3240000
+111,1,1,Not Finished,Third,1827000
+86,1,1,Finished,First,1679000
+170,4,3,Finished,First,3732000
+230,4,4,Finished,Second,4881000
+81,1,1,Finished,Third,1971000
+225,3,2,Not Finished,First,4366000
+219,4,4,Finished,Third,5001000
+120,1,1,Finished,Third,2456000
+184,2,1,Not Finished,First,3262000
+99,2,1,Finished,First,2274000
+207,4,4,Finished,Second,4562000
+196,3,2,Finished,Third,4168000
+134,2,1,Finished,Fourth,3103000
+82,2,1,Finished,Second,2079000
+245,3,3,Finished,Second,5085000
+150,3,2,Finished,Fourth,3329000
+231,3,2,Finished,Second,4616000
+192,3,3,Finished,Second,4520000
+210,5,4,Not Finished,Second,4433000
+207,4,3,Finished,First,4670000
+105,3,3,Finished,Second,2839000
+135,2,2,Finished,Third,3162000
+154,4,4,Not Finished,Fourth,3501000
+160,3,2,Not Finished,Third,3174000
+77,1,1,Finished,Fourth,1888000
+168,4,4,Finished,Third,4135000
+97,2,1,Finished,First,2177000
+204,3,3,Finished,Second,4410000
+193,4,3,Finished,Fourth,4558000
+236,3,2,Finished,First,4695000
+204,5,4,Finished,Fourth,4767000
+136,3,3,Finished,Third,3408000
+245,4,3,Finished,Second,5029000
+144,3,3,Finished,Fourth,3650000
+128,1,1,Not Finished,Fourth,2095000
+233,3,3,Finished,First,4645000
+137,1,1,Not Finished,First,2056000
+83,1,1,Finished,Third,1821000
+154,4,3,Not Finished,Fourth,3615000
+214,3,3,Not Finished,First,4144000
+104,2,1,Not Finished,Third,2002000
+153,4,4,Not Finished,First,3120000
+93,1,1,Not Finished,Third,1350000
+194,4,3,Not Finished,Third,3878000
+156,2,2,Not Finished,First,3253000
+129,3,2,Finished,Third,3200000
+111,2,1,Finished,Fourth,2581000
+172,3,3,Finished,Fourth,4000000
+191,2,2,Not Finished,First,3181000
+240,4,4,Finished,First,5005000
+149,3,2,Finished,First,3350000
+99,1,1,Not Finished,Second,1822000
+220,5,4,Finished,First,5019000
+183,3,3,Finished,Fourth,4147000
+196,4,4,Finished,Fourth,4640000
+87,1,1,Finished,Fourth,2052000
+126,2,1,Finished,First,2875000
+208,3,2,Finished,First,4464000
+220,4,4,Finished,Fourth,4754000
+148,1,1,Finished,Second,2837000
+215,4,4,Finished,Third,4975000
+222,3,3,Not Finished,Fourth,4251000
+140,2,1,Finished,First,3161000
+232,4,3,Not Finished,First,4364000
+122,1,1,Not Finished,First,2348000
+113,3,3,Finished,First,2915000
+193,3,3,Finished,First,4134000
+185,4,4,Finished,Fourth,4610000
+95,1,1,Not Finished,Third,1771000
+220,3,2,Not Finished,Fourth,4009000
+106,2,1,Not Finished,Fourth,2123000
+215,3,3,Finished,Fourth,4643000
+71,1,1,Not Finished,First,1130000
+214,4,4,Finished,Second,4806000
+212,3,2,Not Finished,Fourth,3949000
+211,5,4,Finished,First,4937000
+190,2,2,Not Finished,First,3041000
+155,2,1,Not Finished,Third,2757000
+197,3,3,Finished,Fourth,4052000
+120,3,3,Not Finished,Fourth,2626000
+211,3,3,Finished,Fourth,4552000
+170,2,2,Not Finished,First,3073000
+153,4,4,Finished,Fourth,3857000
+161,4,4,Not Finished,Fourth,3591000
+172,3,2,Finished,Third,3811000
+76,1,1,Not Finished,Fourth,1439000
+95,1,1,Not Finished,Fourth,1981000
+114,2,2,Finished,Second,2809000
+90,1,1,Not Finished,First,1708000
+149,1,1,Not Finished,Second,2668000
+190,2,1,Not Finished,First,3344000
+188,2,1,Finished,First,3975000
+155,4,3,Finished,First,3662000
+224,4,4,Finished,Third,4864000
+172,3,3,Not Finished,Third,3367000
+84,1,1,Finished,Third,1905000
+208,5,4,Finished,Third,4633000
+174,2,2,Finished,Third,3527000
+184,2,1,Finished,Third,3699000
+172,2,2,Finished,First,3580000
+170,3,2,Not Finished,Fourth,3408000
+86,2,1,Not Finished,Second,1675000
+171,3,3,Finished,First,3900000
+213,4,4,Finished,Fourth,4906000
+125,3,3,Not Finished,Third,2751000
+179,2,1,Finished,First,3437000
+75,1,1,Finished,First,1907000
+132,2,2,Finished,First,2958000
+149,2,2,Not Finished,Second,2618000
+247,5,4,Finished,First,5295000
+108,1,1,Not Finished,Third,2059000
+120,3,3,Not Finished,Third,2565000
+143,1,1,Finished,Fourth,3023000
+249,4,3,Not Finished,Third,4567000
+224,4,3,Not Finished,Third,4610000
+76,2,2,Finished,Third,2377000
+112,2,1,Finished,First,2492000
+218,3,2,Finished,First,4425000
+80,1,1,Finished,Third,1639000
